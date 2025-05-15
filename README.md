@@ -100,10 +100,5 @@ If this project helped you, feel free to ⭐ the repo or contribute!
 
 ---
 
-```
 
-👉 Just copy and paste the above markdown into your `README.md` file in VS Code. It’s clean, complete, and ready for GitHub display.
-
-Let me know if you also need the `requirements.txt` or instructions for contributors.
-```
 
